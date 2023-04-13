@@ -10,5 +10,7 @@
 * 7-segment Display
 * MUX
 * DEMUX
+* Clock Generator
+* Counter
 
 
