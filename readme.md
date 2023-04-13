@@ -12,5 +12,12 @@
 * DEMUX
 * Clock Generator
 * Counter
-
+* Function
+* Task
+* LFSR
+* PIPO
+* PISO
+* SISO
+* SIPO
+* Shift Register
 
